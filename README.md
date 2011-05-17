@@ -1,2 +1,14 @@
-Covenants are a different way of thinking about sql generation/abstraction.
-
+  dBBBBBBBBBBBBBBBBBBBBBBBBb
+ BP YBBBBBBBBBBBBBBBBBBBBBBBb
+dB   YB  c o v e n a n t s  Bb
+dB    YBBBBBBBBBBBBBBBBBBBBBBBb
+ Yb    YBBBBBBBBBBBBBBBBBBBBBBBb
+  Yb    YBBBBBBBBBBBBBBBBBBBBBBBb        
+   Yb    YBBBBBBBBBBBBBBBBBBBBBBBb
+    Yb    YBBBBBBBBBBBBBBBBBBBBBBBb      
+     Yb    YBBBBBBBBBBBBBBBBBBBBBBBb
+      Yb   dBBBBBBBBBBBBBBBBBBBBBBBBb
+       Yb dP=======================/
+        YbB=======================(
+         Ybb=======================\
+          Y888888888888888888DSI8888b
